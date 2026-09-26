@@ -1,0 +1,7 @@
+<!-- این کد را کپی کن -->
+< class="product-card">class="product-card">
+ < class="product-title">نام محصولت را اینجا بنویس</div>  class="product-title">نام محصولت را اینجا بنویس</div>
+ < class="product-desc">توضیح کوتاه و جذاب اینجا</div>  class="product-desc">توضیح کوتاه و جذاب اینجا</div>
+ <a href= "لینک_افیلیت_مخصوص_این_محصول" class="btn">مشاهده و خرید آنلاین</a>  "لینک_افیلیت_مخصوص_این_محصول" class="btn">مشاهده و خرید آنلاین</a>
+</div>
+<!--  تا  اینجا -->
